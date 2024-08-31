@@ -1,5 +1,6 @@
-<div class="container" align=center>
-    <h1>Hi there</h1>
+<div class="container" align=left>
+    <h1><code>Hello World</code></h1>
+    <p align=left>Hi, I am <a href=https://www.linkedin.com/in/abdoullah-ichou-106488233>Abdoullah</a>, a student in Computer Science and Mathematical Engineering at Polytech Paris-Saclay</p>
     <div class="section">
         <h3>Languages and Tools:</h3>
         <div class="category">
@@ -24,7 +25,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
                 </a>
             </div>
-        </div>
+        </div> <br>
         <div class="category">
 <!--             <strong>Back-end:</strong> -->
             <div class="icons">
@@ -50,7 +51,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
                 </a>
             </div>
-        </div>
+        </div> <br>
         <div class="category">
 <!--             <strong>SQL:</strong> -->
             <div class="icons">
@@ -79,10 +80,8 @@
         </div>
     </div><br>
     <div class="stats">
-        <p>
+        <p align=left>
             <img src="https://github-readme-stats.vercel.app/api?username=abdoullah93&show_icons=true&locale=en&theme=gruvbox_light" alt="abdoullah93" />
-        </p>
-        <p>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoullah93&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="abdoullah93" />
         </p>
     </div>
