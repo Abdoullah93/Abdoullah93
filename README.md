@@ -1,4 +1,4 @@
-<h1><code>Hello World</code></h1>
+<!-- <h1><code>Hello World</code></h1>
 <p align=left>Hi, I am <a href=https://www.linkedin.com/in/abdoullah-ichou-106488233>Abdoullah</a>, a student in Computer Science and Mathematical Engineering at Polytech Paris-Saclay</p>
 <h3>Languages and Tools:</h3>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="40"/></a>
@@ -31,4 +31,4 @@
 </p>
     <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdoullah-ichou-106488233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdoullah ichou" height="30"  /></a>
+<a href="https://www.linkedin.com/in/abdoullah-ichou-106488233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdoullah ichou" height="30"  /></a> -->
